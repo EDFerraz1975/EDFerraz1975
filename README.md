@@ -2,7 +2,7 @@
 
 ### Boas vindas ao meu repositório 💙
 
-Meu nome é Eduardo Delgado Ferraz
+Meu nome é **Eduardo Delgado Ferraz**
 
 - estou estudando no [Alura](https://alura.com.br);
 - estou me desenvolvendo na linguagem Java Script;

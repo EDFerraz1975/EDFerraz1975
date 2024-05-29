@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**EDFerraz1975/EDFerraz1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boas vindas ao meu repositório 💙
 
-Here are some ideas to get you started:
+Meu nome é Eduardo Delgado Ferraz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando no [Alura](https://alura.com.br);
+- estou me desenvolvendo na linguagem Java Script;
+- neste espaço organizarei meus projetos;
+
+### Para entrar em contato,utilize o email📫
+
+eduardodelgado@prof.educacao.sp.gov.br
+
+![](![naotemcomomudar01-podemudartudoquetem01](https://github.com/EDFerraz1975/EDFerraz1975/assets/170625922/db2b54dd-5ad2-466b-8ac5-24e62722bb42)
